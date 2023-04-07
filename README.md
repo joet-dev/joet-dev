@@ -8,7 +8,7 @@
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
 ### ✔️ Recently Completed Projects: 
-- OurBook - Billing Ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
+- OurBook - Utility billing ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
 
 ### :bulb: Future Projects: 
 - Girlfriend
