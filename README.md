@@ -13,6 +13,6 @@
 ### :bulb: Future Projects: 
 - Girlfriend
 
-### :email: How to reach me: 
+### :email: How to reach me
 Email me @ joseph.thurlow@protonmail.com OR joseph.thurlow7d0@gmail.com
 
