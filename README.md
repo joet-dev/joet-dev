@@ -7,7 +7,7 @@
 - How to play competitive soccer. 
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
-### :check_mark: Recently Completed Projects: 
+### ✔️ Recently Completed Projects: 
 - OurBook - Billing Ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
 
 ### :bulb: Future Projects: 
