@@ -1,6 +1,6 @@
 # Joseph Thurlow
 
-**`Cyber Security Major/Developer`**
+**`Computer Science - Minoring in Cyber Security`**
 
 - 🌱 I’m currently learning ...
 
