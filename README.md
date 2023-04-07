@@ -7,11 +7,12 @@
 - How to play competitive soccer. 
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
-### :heavy_check_mark: Recently Completed Projects: 
+### :check_mark: Recently Completed Projects: 
 - OurBook - Billing Ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
 
 ### :bulb: Future Projects: 
 - Girlfriend
+- I would like to explore more Python data analytics, automation, or machine learning projects. 
 
 ### :email: How to reach me
 Email me @ joseph.thurlow@protonmail.com OR joseph.thurlow7d0@gmail.com
