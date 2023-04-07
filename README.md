@@ -3,7 +3,7 @@
 **`Computer Science - Minoring in Cyber Security`**
 
 ### 🌱 I’m currently learning: 
-- The *Django* web framework (along with sharpening my *Python* and *SQLite* skills). This is a recreation of my portfolio, utilizing most of the HTML and CSS from my old AWS website implementation. I'm not a huge fan as it seems to have limited customizability... but that is probably just my lack of skill. Visit the repository @ [joet-dev/django-website](https://github.com/joet-dev/django-website)
+- The *Django* web framework (along with sharpening my *Python* and *SQLite* skills). This is a recreation of my portfolio website, utilizing most of the HTML and CSS from my old AWS website implementation. I'm not a huge fan of Django so far as it seems to have limited customizability... but I'm sure that's just my lack of skill. Visit the repository @ [joet-dev/django-website](https://github.com/joet-dev/django-website)
 - How to play competitive soccer. 
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
