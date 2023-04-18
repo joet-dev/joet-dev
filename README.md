@@ -11,6 +11,8 @@
 
 ### Technologies & Tools
 
+
+|*-*|
 |**Proficient**|
 |<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat" alt="Git" /> | 
 |**Confident**|
