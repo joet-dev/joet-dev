@@ -15,5 +15,4 @@
 - I would like to explore more Python data analytics, automation, or machine learning projects. 
 
 ### How to reach me
-Email me @ joseph.thurlow@protonmail.com OR joseph.thurlow7d0@gmail.com
-
+Email me @ joseph.thurlow@protonmail.com.
