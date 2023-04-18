@@ -8,8 +8,8 @@
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
 
-<details>
-<summary><b>Technologies & Tools</b></summary>
+
+<b>Technologies & Tools</b>
 
 |**Proficient**|
 |:-:|
@@ -20,7 +20,7 @@
 |<img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" />|
 |**Tools**|
 |<img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/-Matlab-white" alt="Matlab"/> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" /> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian" /> <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=flat&logo=miro&logoColor=black" alt="Miro" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />|
-</details>
+
 
 ### Recently Completed Projects: 
 - OurBook - Utility billing ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
