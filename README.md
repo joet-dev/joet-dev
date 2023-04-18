@@ -8,7 +8,7 @@
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
 
-
+### Skills
 |**Technologies & Tools**|
 |:-:|
 |**Proficient**|
