@@ -7,7 +7,14 @@
 - How to play competitive soccer. 
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
-|<h3>Technologies & Tools</h3>|
+### Recently Completed Projects: 
+- OurBook - Utility billing ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
+
+### Future Projects: 
+- Girlfriend
+- I would like to explore more Python data analytics, automation, or machine learning projects. 
+
+|<h3>My Technologies & Tools</h3>|
 |:-:|
 |**Proficient**|
 |<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="CPP"/> <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />| 
@@ -21,13 +28,6 @@
 |<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" /> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" /> <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/-Matlab-white" alt="Matlab"/> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" /> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian" /> <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=flat&logo=miro&logoColor=black" alt="Miro" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />|
 
 <!-- <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat" alt="AWS DynamoDB" /> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white&style=flat" alt="AWS S3" /> <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?logo=amazonec2&logoColor=white&style=flat" alt="AWS EC2" /> <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-232F3E?logo=amazonapigateway&logoColor=white&style=flat" alt="AWS API Gateway" /> <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-232F3E?logo=amazonapigateway&logoColor=white&style=flat" alt="AWS API Gateway" /> -->
-
-### Recently Completed Projects: 
-- OurBook - Utility billing ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
-
-### Future Projects: 
-- Girlfriend
-- I would like to explore more Python data analytics, automation, or machine learning projects. 
 
 ### How to reach me
 Email me @ joseph.thurlow@protonmail.com.
