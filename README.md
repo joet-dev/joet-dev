@@ -13,7 +13,7 @@
 
 |**Proficient**|
 |:-:|
-|<img src="https://img.shields.io/badge/Python-%2314354c.svg?logo=Python&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git" /> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />| 
+|<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/git-%23d22128.svg?logo=git&logoColor=white&style=flat" alt="Git" /> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />| 
 |**Previous Experience**|
 | <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="cpp"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JS" /> <img src="https://img.shields.io/badge/Linux-%23fcc624.svg?logo=linux&logoColor=white&style=flat" alt="Linux" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Matlab-%23F7A41D.svg?style=flat&logo=matlab&logoColor=white" alt="Matlab"/>
 |**Exploring**|
