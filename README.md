@@ -11,7 +11,7 @@
 
 |**Technologies & Tools**|
 |:-:|
-|**Proficient*|
+|**Proficient**|
 |<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" /> <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat" alt="Git" /> | 
 |**Confident**|
 |<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="CPP"/> <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JS" /> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" alt="AWS" />  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />|
