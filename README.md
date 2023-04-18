@@ -14,7 +14,7 @@
 - Girlfriend
 - I would like to explore more Python data analytics, automation, or machine learning projects. 
 
-
+---
 
 |<h3>My Technologies & Tools</h3>|
 |:-:|
