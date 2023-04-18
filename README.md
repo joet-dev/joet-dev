@@ -7,8 +7,6 @@
 - How to play competitive soccer. 
 - The fingerstyle guitar cover for Jocelyn Flores by XXXTentacion & Clair de Lune by Debussy. 
 
-
-### Skills
 |<h3>Technologies & Tools</h3>|
 |:-:|
 |**Proficient**|
@@ -18,7 +16,7 @@
 |**Perviously Used**|
 |<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat" alt="Linux" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Bash-5391FE?style=flat&logo=gnubash&logoColor=white" alt="GNU Bash" />|
 |**Exploring**|
-|<img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" /> <img src="https://img.shields.io/badge/Node.js-61DAFB?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />|
+|<img src="https://img.shields.io/badge/Django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat" alt="Vue.js" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" /> <img src="https://img.shields.io/badge/Node.js-61DAFB?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />|
 |**Tools**|
 |<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" /> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" /> <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/-Matlab-white" alt="Matlab"/> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown" /> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian" /> <img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=flat&logo=miro&logoColor=black" alt="Miro" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />|
 
