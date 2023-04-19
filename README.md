@@ -12,7 +12,7 @@
 
 ### Future Projects: 
 - Girlfriend
-- I would like to explore more Python data analytics, automation, or machine learning projects. 
+- I would like to delve deeper into programming frameworks (full-stack dev), machine learning, and data analytics. 
 
 <br />
 
