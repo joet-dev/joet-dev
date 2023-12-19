@@ -12,7 +12,6 @@
 - OurBook - Utility billing ledger for tenants written in *C#* and *SQL*. Visit the repository @ [joet-dev/OurBook](https://github.com/joet-dev/OurBook)
 
 ### Future Projects: 
-- Girlfriend
 - I would like to delve deeper into cloud computing (microservices), programming frameworks (full-stack dev), and data analytics. 
 
 <br />
