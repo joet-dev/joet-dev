@@ -20,6 +20,6 @@
 
 
 ### How to reach me
-Email me @ joetdeb@proton.me.
+Email me @ joetdev@proton.me.
 
 
